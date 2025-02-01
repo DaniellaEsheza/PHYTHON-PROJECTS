@@ -1,1 +1,2 @@
-# PHYTHON-PROJECTS
+# PYTHON-PROJECTS
+This repository contains projects that showcase my expertise in data cleaning, analysis, visualization, and automation using Python. Each project is designed to solve real-world challenges by leveraging Python’s powerful libraries such as pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. The projects cover a wide range of data science techniques, including data wrangling, exploratory data analysis (EDA), machine learning, and automation, demonstrating my ability to transform raw data into actionable insights.
